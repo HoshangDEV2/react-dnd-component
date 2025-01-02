@@ -25,7 +25,7 @@ export default function App() {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center h-screen gap-4">
+    <div className="flex flex-col items-center justify-center h-screen gap-4 p-4">
       <h1 className="text-2xl font-bold max-w-md text-center text-balance">
         React Drag and Drop Component
       </h1>
